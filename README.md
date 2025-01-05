@@ -25,6 +25,6 @@ FXI: 9.97% loss over ~6 months<br>
 RSG: 6.45% loss over ~3 months<br>
 VSCO: 8.01% loss over ~6 months<br>
 <br>
-The above gains/losses were measured on a fiscal oscilloscope that was built by the creators of CashApp. After purchasing stocks, one is able to measure the relative gains/losses of the markets with respect to a randomized reading of the system that was carried out by a neutral entity. I was not paid to provide this report and I was not directed on how or what to report. There are risks associated with investing in any market. This is not an endorsement to buy any stock. This report should be considered zero warranty with respect to fiscal stability of investments.
+The above gains/losses were measured on a fiscal oscilloscope that was built by the creators of CashApp. After purchasing stocks, one is able to measure the relative gains/losses of the markets with respect to a reading of the system between the time that the stocks were originally purchased and the report date. I was not paid to provide this report and I was not directed on how or what to report. There are risks associated with investing in any market. This is not an endorsement to buy any stock. This report should be considered zero warranty with respect to fiscal stability of investments.
 
 <br>
